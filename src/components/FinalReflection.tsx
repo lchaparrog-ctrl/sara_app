@@ -285,7 +285,7 @@ export function FinalReflection({
 
         {/* Subtle Archival Footer */}
         <div className="pt-12 border-t border-[#2F3339] text-center text-xs font-mono text-[#7D878F] space-y-1">
-          <p>INVESTIGACIÓN DE SARA VALENTINA LOZANO SILVA (202321775) · 2026</p>
+          <p>INVESTIGACIÓN ACADÉMICA · 2026</p>
           <p>REGISTRO DOCUMENTAL ABIERTO · SIN CONTENIDO GRÁFICO EXPLÍCITO</p>
         </div>
       </div>

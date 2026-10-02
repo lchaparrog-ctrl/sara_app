@@ -57,7 +57,7 @@ export function ArtReferentsSection() {
           </h2>
         </div>
         <span className="text-xs font-mono text-[#7D878F]">
-          DOCUMENTACIÓN DE SARA VALENTINA LOZANO
+          DOCUMENTACIÓN DE INVESTIGACIÓN ACADÉMICA
         </span>
       </div>
 

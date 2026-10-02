@@ -147,7 +147,7 @@ export default function App() {
           onRedactionReveal={() => setRedactionsRevealed((prev) => prev + 1)}
         />
 
-        {/* 2. Interactive Conceptual Map Explorer (Sara Valentina's Thesis) */}
+        {/* 2. Interactive Conceptual Map Explorer */}
         <ConceptualMapExplorer />
 
         {/* 3. Deep Dive Chapters & Social Feed Simulation */}

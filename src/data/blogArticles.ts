@@ -103,7 +103,7 @@ export const blogArticlesChronologicalReverse: BlogArticle[] = [
     title: 'CUANDO LA VIOLENCIA SE CONVIERTE EN CONTENIDO: Instagram y la normalización de imágenes reales de sufrimiento',
     subtitle: 'La violencia no desaparece cuando se censura: también cambia cuando se convierte en entretenimiento algorítmico y meme.',
     readTime: '6 min de lectura',
-    author: 'Sara Valentina Lozano Silva',
+    author: 'Investigación Académica',
     coverImage: '/src/assets/images/feed_police_perimeter_1790905676177.jpg',
     coverCaption: 'Evidencia documental de operativo policial en redes sociales: el dolor humano indexado como mercancía de dwell time.',
     tags: ['Instagram', 'Memes', 'CBS News', 'Algoritmos', 'Martha Rosler'],
@@ -132,8 +132,8 @@ export const blogArticlesChronologicalReverse: BlogArticle[] = [
           ],
           quote: {
             text: 'Mediante estos contrastes, Rosler cuestiona la distancia entre quienes experimentan la violencia y quienes la observan a través de los medios. Las imágenes transforman radicalmente cómo consumimos el sufrimiento ajeno.',
-            author: 'Sara Valentina Lozano Silva',
-            work: 'Documentación para Blog (2026)'
+            author: 'Martha Rosler',
+            work: 'House Beautiful: Bringing the War Home (1967-2008)'
           }
         },
         {
@@ -154,11 +154,11 @@ export const blogArticlesChronologicalReverse: BlogArticle[] = [
     title: 'EL MAPA DE LA VISIBILIDAD: ¿Quién decide qué merece ser visto en el espacio digital?',
     subtitle: 'Censura algorítmica vs. control institucional: la intervención material sobre la mirada.',
     readTime: '7 min de lectura',
-    author: 'Sara Valentina Lozano Silva',
+    author: 'Investigación Académica',
     coverImage: '/src/assets/images/censored_crt_monitors_1790905711966.jpg',
     coverCaption: 'Pared de monitores de control: la visibilidad es siempre el resultado de una disputa de poder.',
     tags: ['Mapa Conceptual', 'Visibilidad', 'Censura Algorítmica', 'Control Institucional', 'Sensibilidad'],
-    keyTheorists: ['Judith Butler', 'Stanley Cohen', 'Sara Valentina Lozano'],
+    keyTheorists: ['Judith Butler', 'Stanley Cohen', 'Ariella Azoulay'],
     summary: 'A través de nuestro mapa conceptual analizamos los cuatro ejes que definen la visibilidad contemporánea: Censura (material y algorítmica), Exposición (repetición y viralidad), Representación (framing de la víctima) y Comunidad (consumo activo vs. pasivo).',
     contentHtml: {
       lead: '¿Quién decide qué merece ser visto? La visibilidad no es un estado natural de las cosas: es el resultado de un filtro político y tecnológico continuo. En nuestro mapa conceptual de investigación, estructuramos cómo la sensibilidad comunitaria es moldeada en la encrucijada entre censura, exposición masiva y encuadre mediático.',
@@ -200,7 +200,7 @@ export const blogArticlesChronologicalReverse: BlogArticle[] = [
     title: 'FRAMES OF WAR Y PSYCHIC NUMBING: Por qué una sola muerte conmueve y un millón se vuelve estadística',
     subtitle: 'Judith Butler, Paul Slovic y los marcos que determinan qué vidas son dignas de duelo.',
     readTime: '8 min de lectura',
-    author: 'Sara Valentina Lozano Silva',
+    author: 'Investigación Académica',
     coverImage: '/src/assets/images/commuters_screen_glow_1790902305889.jpg',
     coverCaption: 'Miradas desvinculadas: la estadística satura la mente y apaga la capacidad de llorar la pérdida ajena.',
     tags: ['Judith Butler', 'Paul Slovic', 'Psychic Numbing', 'Framing', 'Compassion Fade'],
@@ -246,7 +246,7 @@ export const blogArticlesChronologicalReverse: BlogArticle[] = [
     title: 'EL CONTRATO CIVIL DE LA FOTOGRAFÍA: Susan Sontag, Ariella Azoulay y Stanley Cohen',
     subtitle: 'Entre la mirada que exige justicia y los estados colectivos de negación cotidiana.',
     readTime: '7 min de lectura',
-    author: 'Sara Valentina Lozano Silva',
+    author: 'Investigación Académica',
     coverImage: '/src/assets/images/redacted_archive_dossier_1790902318303.jpg',
     coverCaption: 'Expediente desclasificado: mirar no es un acto inocente; es un compromiso ético entre ciudadanos.',
     tags: ['Susan Sontag', 'Ariella Azoulay', 'Stanley Cohen', 'Contrato Civil', 'Estados de Negación'],
@@ -292,7 +292,7 @@ export const blogArticlesChronologicalReverse: BlogArticle[] = [
     title: 'LA CURIOSIDAD MÓRBIDA Y EL UMBRAL DEL CONSUMO: ¿Por qué buscamos voluntariamente lo perturbador?',
     subtitle: 'Suzanne Oosterwijk, Jeanne Funk Brockmyer y los circuitos de recompensa del dolor.',
     readTime: '6 min de lectura',
-    author: 'Sara Valentina Lozano Silva',
+    author: 'Investigación Académica',
     coverImage: '/src/assets/images/cctv_empty_intersection_1790902296575.jpg',
     coverCaption: 'La pantalla como mirilla: la atracción por lo prohibido responde a un mecanismo biológico ancestral.',
     tags: ['Curiosidad Mórbida', 'Suzanne Oosterwijk', 'Neurobiología', 'Funk Brockmyer', 'Desensibilización'],

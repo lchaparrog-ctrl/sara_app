@@ -51,19 +51,11 @@ export function Hero({ onScrollDown, onInitialWarningDismissed }: HeroProps) {
         <div className="flex flex-wrap items-center gap-2">
           <span className="text-[#8B191F] font-bold flex items-center gap-1">
             <GraduationCap className="w-3.5 h-3.5" />
-            INVESTIGACIÓN ACADÉMICA:
+            INVESTIGACIÓN ACADÉMICA
           </span>
-          <span className="text-[#DFE4EA] font-semibold">Sara Valentina Lozano Silva</span>
-          <span className="text-[#41474F]">·</span>
-          <span>Cód. 202321775</span>
         </div>
 
         <div className="flex items-center gap-3">
-          <span className="flex items-center gap-1.5 text-[#BDC6CE]">
-            <Users className="w-3.5 h-3.5 text-[#8B191F]" />
-            <span className="hidden sm:inline">COMUNIDAD:</span>
-            <span>Jóvenes universitarios & redes digitales</span>
-          </span>
         </div>
       </div>
 

@@ -13,7 +13,7 @@ export function BibliographySection() {
           BIBLIOGRAFÍA & MARCO TEÓRICO
         </h2>
         <p className="text-xs font-mono text-[#7D878F] mt-2">
-          Documentación elaborada por Sara Valentina Lozano Silva (202321775). Fuentes fundamentales sobre la construcción social de la sensibilidad ante la violencia.
+          Fuentes fundamentales sobre la construcción social de la sensibilidad ante la violencia.
         </p>
       </div>
 

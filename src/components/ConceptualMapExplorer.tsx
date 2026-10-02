@@ -80,7 +80,7 @@ export function ConceptualMapExplorer() {
             LA ARQUITECTURA DE LA VISIBILIDAD
           </h2>
           <p className="text-sm font-sans text-[#BDC6CE] max-w-xl mt-1">
-            Basado en la investigación de <strong>Sara Valentina Lozano Silva</strong> (202321775).
+            Basado en la investigación académica sobre desensibilización a la violencia en medios digitales.
             Explora cómo se construye socialmente la sensibilidad frente a la violencia a través de 4 ejes interconectados.
           </p>
         </div>
